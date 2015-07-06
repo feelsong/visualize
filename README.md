@@ -1,5 +1,5 @@
 HOW TO RUN
-
-npm install -g gulp
-npm install
-gulp serve
+- First, install `node.js` from `https://nodejs.org/`
+- npm install -g gulp
+- npm install
+- gulp serve
